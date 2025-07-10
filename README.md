@@ -16,4 +16,4 @@ Portfólio pessoal do aluno:
 
 ## Autor
 Luiz Henrique  
-[GitHub](https://github.com/fpmiguels) | [LinkedIn](https://www.linkedin.com/in/luiz-henrique-da-silva-04518b367/)
+[GitHub](https://github.com/LuizHenriqueDaSilvaQuintao) | [LinkedIn](https://www.linkedin.com/in/luiz-henrique-da-silva-04518b367/)
